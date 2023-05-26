@@ -9,7 +9,7 @@ I built this project to improve the accessibility standards of the marketing age
 I have added comments in the CSS file above every CSS rule for the benefit of understanding each code refactor.
 
 ## Deployed link: 
-https://adammbnitro.github.io/module-1-assignment/
+https://adammbnitro.github.io/Code-Refactor/
 
 ![alt text](Screenshot.png)
 
