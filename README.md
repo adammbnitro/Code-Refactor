@@ -1,4 +1,3 @@
-# module-1-assignment
 # Code Refactor
 
 ![Alt text](https://www.dummies.com/wp-content/uploads/seo-concept.jpg)
